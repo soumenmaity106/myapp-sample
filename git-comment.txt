@@ -7,3 +7,7 @@ git status
 git rm --cached index.html
 git add *.html
 git add .
+git commit -m ""
+clear
+touch .gitignore
+git branch login
