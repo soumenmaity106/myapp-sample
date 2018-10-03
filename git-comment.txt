@@ -11,3 +11,5 @@ git commit -m ""
 clear
 touch .gitignore
 git branch login
+git remote
+git push -u origin master
